@@ -1,0 +1,5 @@
+manifests   usr/share/puppet/modules.available/slapd 
+LICENSE     usr/share/doc/puppet-module-slapd 
+README*     usr/share/doc/puppet-module-slapd 
+examples/*  usr/share/doc/puppet-module-slapd/examples
+

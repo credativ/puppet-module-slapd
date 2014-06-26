@@ -1,0 +1,9 @@
+slapd_ensure: true
+slapd_ensure_running: true
+slapd_ensure_enabled: true
+
+#slapd_config_source: puppet:///files/slapd.conf
+#slapd_config_template: slapd.conf.erb
+#slapd_disabled_hosts:
+#  - testhost1
+
