@@ -1,3 +1,9 @@
+puppet-module-slapd (1.0.2) UNRELEASED; urgency=medium
+
+  * Add/Update common puppet files
+
+ -- Patrick Schoenfeld <patrick.schoenfeld@credativ.de>  Fri, 24 Jun 2016 15:38:59 +0000
+
 puppet-module-slapd (1.0.1) unstable; urgency=low
 
   * Initial release.
